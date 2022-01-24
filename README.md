@@ -1,2 +1,2 @@
 # BallGame
- Waisting time with a paddle and a ball
+ Wasting time with a paddle and a ball
